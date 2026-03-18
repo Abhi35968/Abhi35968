@@ -13,23 +13,33 @@ I am a **B.Tech student in Data Science and Artificial Intelligence** at the **I
 
 * 🎓 **Education**: Pursuing B.Tech with a current CGPA of 7.89.
 * 🚀 **Focus**: Developing real-time systems and Python-based automation.
-* 🧠 **Interests**: Machine Learning, NLP Parsing Algorithms, and System Reliability.
-* 📊 **Stats**: Active problem solver on LeetCode focusing on DSA and System Design.
+* 🧠 **Interests**: Machine Learning, Data-Driven Systems, and Software Design Principles.
+* 📊 **LeetCode**: Active problem solver focusing on DSA and System Design.
+
+---
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinandan787078/abhinandan787078/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinandan787078/abhinandan787078/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhinandan787078/abhinandan787078/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
 ### 🛠️ Technical Skills
 
-#### 💻 Programming Languages
+#### 💻 Programming & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-#### 🤖 AI, Machine Learning & Data Science
+#### 🤖 AI & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -37,49 +47,28 @@ I am a **B.Tech student in Data Science and Artificial Intelligence** at the **I
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-#### 🌐 Web & Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JDBC-Java-red?style=for-the-badge" />
-</p>
-
-#### 🔧 DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
 ---
 
 ### 📂 Featured Projects
 
-* **Emotion Detection using YOLOv8**: Trained a model on AffectNet for real-time facial emotion and sentiment mapping.
-* **Dijkstra Algorithm Visualizer**: A JavaFX tool demonstrating shortest path computations with interactive graph traversal.
-* **Student Record Management**: A robust Java backend utilizing JDBC and MySQL for secure CRUD operations.
+* **Emotion Detection using YOLOv8**: Real-time facial emotion and sentiment mapping trained on AffectNet.
+* **Dijkstra Algorithm Visualizer**: JavaFX-based interactive tool for shortest path computations.
+* **Student Record Management**: Backend application using Java, JDBC, and MySQL for CRUD operations.
 * **Multi-Modal Dashboard**: Analyzing image, video, and audio signals for comprehensive data insights.
 
 ---
 
-### 📊 Activity & Stats
+### 📈 Activity & Views
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinandan787078&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandan787078&theme=radical" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhinandan787078&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=abhinandan787078&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/abhinandan-kumar-47075a268"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abhinandan-kumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/abhinandan787078"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:abhinandan787078@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
