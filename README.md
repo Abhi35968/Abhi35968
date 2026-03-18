@@ -13,7 +13,7 @@ I am a **B.Tech student in Data Science and Artificial Intelligence** at the **I
 
 * 🎓 **Education**: Pursuing B.Tech with a current CGPA of 7.89.
 * 🚀 **Focus**: Developing real-time systems and Python-based automation.
-* 🧠 **Interests**: Machine Learning, Data-Driven Systems, and Software Design Principles.
+* 🧠 **Interests**: Machine Learning, Data-Driven Systems, and Software Design.
 * 📊 **LeetCode**: Active problem solver focusing on DSA and System Design.
 
 ---
@@ -36,7 +36,6 @@ I am a **B.Tech student in Data Science and Artificial Intelligence** at the **I
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 #### 🤖 AI & Data Science
@@ -44,21 +43,22 @@ I am a **B.Tech student in Data Science and Artificial Intelligence** at the **I
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
 
-* **Emotion Detection using YOLOv8**: Real-time facial emotion and sentiment mapping trained on AffectNet.
-* **Dijkstra Algorithm Visualizer**: JavaFX-based interactive tool for shortest path computations.
-* **Student Record Management**: Backend application using Java, JDBC, and MySQL for CRUD operations.
-* **Multi-Modal Dashboard**: Analyzing image, video, and audio signals for comprehensive data insights.
+* **Emotion Detection using YOLOv8**: Real-time facial emotion mapping trained on AffectNet.
+* **Dijkstra Algorithm Visualizer**: JavaFX tool for interactive pathfinding visualization.
+* **Student Record Management**: Backend system built with Java, JDBC, and MySQL.
 
 ---
 
-### 📈 Activity & Views
+### 📊 Competitive Programming
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/abhinandan787078?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhinandan787078&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
@@ -69,7 +69,6 @@ I am a **B.Tech student in Data Science and Artificial Intelligence** at the **I
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/abhinandan-kumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/abhinandan787078"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:abhinandan787078@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
