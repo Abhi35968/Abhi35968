@@ -9,12 +9,12 @@
 ---
 
 ### 💫 About Me
-[cite_start]I am a **B.Tech student in Data Science and Artificial Intelligence** at the **Indian Institute of Information Technology, Dharwad** (2023-2027)[cite: 12, 44, 45, 51]. [cite_start]I focus on building scalable backend services, automation pipelines, and intelligent systems[cite: 10, 42].
+I am a **B.Tech student in Data Science and Artificial Intelligence** at the **Indian Institute of Information Technology, Dharwad** (2023-2027). I focus on building scalable backend services, automation pipelines, and intelligent systems.
 
-* [cite_start]🎓 **Education**: Pursuing B.Tech with a current CGPA of 7.89[cite: 12, 52].
-* [cite_start]🚀 **Focus**: Developing real-time systems and Python-based automation[cite: 41].
-* [cite_start]🧠 **Interests**: Machine Learning, Data-Driven Systems, and Modern Software Engineering[cite: 10].
-* [cite_start]📊 **Stats**: Active problem solver on LeetCode focusing on DSA and System Design[cite: 32, 69].
+* 🎓 **Education**: Pursuing B.Tech with a current CGPA of 7.89.
+* 🚀 **Focus**: Developing real-time systems and Python-based automation.
+* 🧠 **Interests**: Machine Learning, NLP Parsing Algorithms, and System Reliability.
+* 📊 **Stats**: Active problem solver on LeetCode focusing on DSA and System Design.
 
 ---
 
@@ -43,38 +43,43 @@
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-Java-red?style=for-the-badge" />
+</p>
+
+#### 🔧 DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
 
-* [cite_start]**Emotion Detection using YOLOv8**: Trained a model on AffectNet for real-time facial emotion detection and sentiment mapping[cite: 61, 62, 63].
-* [cite_start]**Dijkstra Algorithm Visualizer**: A JavaFX tool for interactive visualization of shortest path computations[cite: 27, 29].
-* [cite_start]**Student Record Management**: Java-based backend application with MySQL integration and CRUD operations[cite: 22, 23, 24].
+* **Emotion Detection using YOLOv8**: Trained a model on AffectNet for real-time facial emotion and sentiment mapping.
+* **Dijkstra Algorithm Visualizer**: A JavaFX tool demonstrating shortest path computations with interactive graph traversal.
+* **Student Record Management**: A robust Java backend utilizing JDBC and MySQL for secure CRUD operations.
+* **Multi-Modal Dashboard**: Analyzing image, video, and audio signals for comprehensive data insights.
 
 ---
 
 ### 📊 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinandan787078&show_icons=true&theme=radical&hide_border=true" alt="Abhinandan's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandan787078&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinandan787078&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandan787078&theme=radical" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinandan787078&theme=radical" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhinandan787078&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=abhinandan787078&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/abhinandan-kumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abhinandan-kumar-47075a268"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/abhinandan787078"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:abhinandan787078@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
