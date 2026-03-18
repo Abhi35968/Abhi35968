@@ -1,4 +1,4 @@
-# Hi there! I'm Abhinandan Kumar <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/assets/hi.gif" width="30px"> 
+# Hi there! I'm Abhinandan Kumar <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/assets/hi.gif" width="30px">
 
 <p align="left">
   <a href="https://git.io/typing-svg">
@@ -18,41 +18,19 @@ I am a **B.Tech student in Data Science and Artificial Intelligence** at the **I
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinandan787078&theme=radical&no-frame=true&column=4" alt="abhinandan787078" /></a>
+</p>
+
+---
+
 ### 🛠️ Technical Skills
 
-#### 💻 Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-#### 🤖 AI, Machine Learning & Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-Stanza/SpaCy-blue?style=for-the-badge" />
-</p>
-
-#### 🌐 Web & Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JDBC-Java-red?style=for-the-badge" />
-</p>
-
-#### 🔧 DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,pytorch,tensorflow,nodejs,react,express,mysql,git,docker,linux,vscode&perline=8" />
+  </a>
 </p>
 
 ---
@@ -62,14 +40,21 @@ I am a **B.Tech student in Data Science and Artificial Intelligence** at the **I
 * **Emotion Detection using YOLOv8**: Trained a model on AffectNet for real-time facial emotion and sentiment mapping.
 * **Dijkstra Algorithm Visualizer**: A JavaFX tool demonstrating shortest path computations with interactive graph traversal.
 * **Student Record Management**: A robust Java backend utilizing JDBC and MySQL for secure CRUD operations.
-* **Multi-Modal Dashboard**: (In Progress) Analyzing image, video, and audio signals for comprehensive data insights.
+* **Multi-Modal Dashboard**: Analyzing image, video, and audio signals for comprehensive data insights.
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhinandan787078/abhinandan787078/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
 ### 📊 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinandan787078&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinandan787078&show_icons=true&theme=radical&count_private=true" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandan787078&theme=radical" alt="Streak" />
 </p>
 
