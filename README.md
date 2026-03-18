@@ -9,12 +9,12 @@
 ---
 
 ### 💫 About Me
-[cite_start]I am a **B.Tech student in Data Science and Artificial Intelligence** at the **Indian Institute of Information Technology, Dharwad** (2023-2027)[cite: 8, 12, 44, 45]. [cite_start]I focus on building scalable backend services, automation pipelines, and intelligent systems[cite: 10, 42].
+I am a **B.Tech student in Data Science and Artificial Intelligence** at the **Indian Institute of Information Technology, Dharwad** (2023-2027). I focus on building scalable backend services, automation pipelines, and intelligent systems.
 
-* [cite_start]🎓 **Education**: Pursuing B.Tech with a current CGPA of 7.89[cite: 12, 52].
-* [cite_start]🚀 **Focus**: Developing real-time systems and Python-based automation[cite: 41].
+* 🎓 **Education**: Pursuing B.Tech with a current CGPA of 7.89.
+* 🚀 **Focus**: Developing real-time systems and Python-based automation.
 * 🧠 **Interests**: Machine Learning, NLP Parsing Algorithms, and System Reliability.
-* [cite_start]📊 **Stats**: Active problem solver on LeetCode focusing on DSA and System Design[cite: 32, 69].
+* 📊 **Stats**: Active problem solver on LeetCode focusing on DSA and System Design.
 
 ---
 
@@ -59,9 +59,9 @@
 
 ### 📂 Featured Projects
 
-* [cite_start]**Emotion Detection using YOLOv8**: Trained a model on AffectNet for real-time facial emotion and sentiment mapping[cite: 61, 62, 63].
-* [cite_start]**Dijkstra Algorithm Visualizer**: A JavaFX tool demonstrating shortest path computations with interactive graph traversal[cite: 27, 29].
-* [cite_start]**Student Record Management**: A robust Java backend utilizing JDBC and MySQL for secure CRUD operations[cite: 22, 24].
+* **Emotion Detection using YOLOv8**: Trained a model on AffectNet for real-time facial emotion and sentiment mapping.
+* **Dijkstra Algorithm Visualizer**: A JavaFX tool demonstrating shortest path computations with interactive graph traversal.
+* **Student Record Management**: A robust Java backend utilizing JDBC and MySQL for secure CRUD operations.
 * **Multi-Modal Dashboard**: (In Progress) Analyzing image, video, and audio signals for comprehensive data insights.
 
 ---
@@ -81,7 +81,7 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/abhinandan-kumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abhinandan-kumar-47075a268"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/abhinandan787078"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:abhinandan787078@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
