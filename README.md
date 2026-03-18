@@ -52,7 +52,6 @@ I am a **B.Tech student in Data Science and Artificial Intelligence** at the **I
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/JDBC-Java-red?style=for-the-badge" />
 </p>
@@ -61,7 +60,6 @@ I am a **B.Tech student in Data Science and Artificial Intelligence** at the **I
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Networking-TCP%2FIP-orange?style=for-the-badge" />
 </p>
 
@@ -74,8 +72,6 @@ I am a **B.Tech student in Data Science and Artificial Intelligence** at the **I
 * **Multi-Modal Dashboard**: Integrated real-time image, video, and audio analysis into a unified Flask-based dashboard.
 * **Dijkstra Algorithm Visualizer**: A JavaFX interactive tool demonstrating graph traversal and priority queue-based shortest path logic.
 * **Student Record Management System**: A robust Java backend using JDBC and MySQL, following modular OOP principles for CRUD operations.
-* **PLPP System**: Personalized Learning Path Prediction system designed to predict and optimize student learning journeys.
-* **Urbanization Research**: Investigating the intersection of urbanization and environmental degradation in major Indian cities.
 
 ---
 
