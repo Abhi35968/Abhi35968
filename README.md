@@ -76,6 +76,7 @@ I am a **B.Tech student in Data Science and Artificial Intelligence** at the **I
 ---
 
 ### 📊 Competitive Programming & Stats
+<a href="https://leetcode.com/u/abhinandan787078"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/abhinandan787078?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
 </p>
@@ -91,6 +92,7 @@ I am a **B.Tech student in Data Science and Artificial Intelligence** at the **I
   <a href="https://linkedin.com/in/abhinandan-kumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abhinandan787078@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
