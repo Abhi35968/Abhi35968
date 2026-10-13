@@ -12,7 +12,7 @@
 I am a **B.Tech student in Data Science and Artificial Intelligence** at the **Indian Institute of Information Technology, Dharwad** (2023-2027). I specialize in building intelligent systems, automation pipelines, and scalable backend architectures.
 
 * 🎓 **Education**: Pursuing B.Tech with a current CGPA of 8.14.
-* 🚀 **Core Focus**: Machine Learning, Deep Learning (NLP & CV), and System Reliability.
+* 🚀 **Core Focus**: Machine Learning, Deep Learning (NLP & CV), Agentic Ai, GenAI and System Reliability.
 * 📊 **Problem Solving**: Active on LeetCode focusing on Data Structures, Algorithms, and System Design.
 
 ---
